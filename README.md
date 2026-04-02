@@ -18,4 +18,4 @@ python main.py
 
 ## Author
 Corefluxio
-This is my first CLI project built as part of my Python learning journey.
+
