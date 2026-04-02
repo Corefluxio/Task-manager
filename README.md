@@ -10,8 +10,8 @@ Simple command-line task manager written in Python.
 
 ## How to run
 
-```bash
 python main.py
+
 
 ## Technologies
 - Python
